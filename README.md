@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ExtOnix
-- 👀 I’m interested in gamplay coding
+- 👀 I’m interested in gamplay programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
